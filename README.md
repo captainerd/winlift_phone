@@ -1,5 +1,5 @@
 # winlift_phone
-A bridge for BPX's and phones for datasolution's winlift ERP
+A bridge for BPX's and phones for datasolution's winlift ERP (Client C# 6 (core) NET  - Server: Node - express)
 
 This implementation is using a simple ping-pong tcp client/server model, server-client wasn't nessesary
 just in order to subscribe more than 1 clients for the same lookups/Trunk phone line
