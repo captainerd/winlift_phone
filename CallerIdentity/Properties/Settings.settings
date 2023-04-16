@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CallerIdentity.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="server_ip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.7.6</Value>
+    </Setting>
+    <Setting Name="grandstream_pass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">teleAdmin</Value>
+    </Setting>
+    <Setting Name="play_sound" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="grandstream_ip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.7.104</Value>
+    </Setting>
+    <Setting Name="server_port" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5522</Value>
+    </Setting>
+    <Setting Name="API_address" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.7.6:3535</Value>
+    </Setting>
+    <Setting Name="server_secret" Type="System.String" Scope="User">
+      <Value Profile="(Default)">e189ef2c916acff0446d10da8cc86937</Value>
+    </Setting>
+    <Setting Name="grandstream_user" Type="System.String" Scope="User">
+      <Value Profile="(Default)">admin</Value>
+    </Setting>
+    <Setting Name="scrolling" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

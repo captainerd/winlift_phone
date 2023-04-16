@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CallerIdentity", "CallerIdentity\CallerIdentity.csproj", "{35EDF078-DE3A-41E3-B2C5-99547629F092}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CallerID Oracle", "Setup2\Setup2.vdproj", "{0B71BA8B-A70F-4CCF-B52A-910DD98C4005}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35EDF078-DE3A-41E3-B2C5-99547629F092}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{35EDF078-DE3A-41E3-B2C5-99547629F092}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{35EDF078-DE3A-41E3-B2C5-99547629F092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35EDF078-DE3A-41E3-B2C5-99547629F092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B71BA8B-A70F-4CCF-B52A-910DD98C4005}.Debug|Any CPU.ActiveCfg = Release
+		{0B71BA8B-A70F-4CCF-B52A-910DD98C4005}.Debug|Any CPU.Build.0 = Release
+		{0B71BA8B-A70F-4CCF-B52A-910DD98C4005}.Release|Any CPU.ActiveCfg = Release
+		{0B71BA8B-A70F-4CCF-B52A-910DD98C4005}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A737DC3-F849-44D4-91CB-EA2B9C6DE868}
+	EndGlobalSection
+EndGlobal
