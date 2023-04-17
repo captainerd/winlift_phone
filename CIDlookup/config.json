@@ -1,9 +1,0 @@
-{
-    "PORT": 3535,
-    "DATABASE": "SOTIROPOULOSLIFT",
-    "SERVER_NAME": "DESKTOP-SJNQK3J\\SQLEXPRESS",
-    "PHONEBOOK": "./phonebook.json",
-    "ENABLE_11888": true,
-    "SERVER_KEY": "e189ef2c916acff0446d10da8cc86937",
-    "SOCKET_PORT": 5522    
-}
